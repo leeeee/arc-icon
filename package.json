@@ -1,6 +1,6 @@
 {
   "name": "arc-icon",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "description": "Icon automation workflow with Figma",
   "main": "dist/index.js",
   "module": "build/index.js",
